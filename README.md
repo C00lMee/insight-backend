@@ -1,1 +1,1 @@
-# LogInsight
+Insight
